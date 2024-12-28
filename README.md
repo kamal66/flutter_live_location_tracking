@@ -13,7 +13,7 @@ Screen 2 demo shows polyPoints area with order status.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/kamal66/flutter_live_location_tracking/blob/main/screenshots/demo_1.gif?raw=true" width="250" height="auto" alt="Screenshot 1"/>
-  <img src="https://github.com/kamal66/flutter_live_location_tracking/main/screenshots/demo_2.gif?raw=true" width="250" height="auto" alt="Screenshot 2"/>
+  <img src="https://github.com/kamal66/flutter_live_location_tracking/blob/main/screenshots/demo_2.gif?raw=true" width="250" height="auto" alt="Screenshot 2"/>
 </div>
 
 ### PolyPoints Area Highlight
@@ -21,15 +21,15 @@ Screen 1 shows highlighted area with circular polyPoints.
 Screen 2 shows polyLines with marker points.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/kamal66/flutter_live_location_tracking/blob/main/screenshots/ss3.png?raw=true" width="250" height="auto" alt="Screenshot 1"/>
-  <img src="https://github.com/kamal66/flutter_live_location_tracking/main/screenshots/ss4.png?raw=true" width="250" height="auto" alt="Screenshot 2"/>
+  <img src="https://github.com/kamal66/flutter_live_location_tracking/blob/main/screenshots/ss3.png?raw=true" width="250" height="auto" alt="Screenshot 3"/>
+  <img src="https://github.com/kamal66/flutter_live_location_tracking/blob/main/screenshots/ss4.png?raw=true" width="250" height="auto" alt="Screenshot 4"/>
 </div>
 
 ### Custom Info Window
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/kamal66/flutter_live_location_tracking/blob/main/screenshots/ss1.png?raw=true" width="250" height="auto" alt="Screenshot 1"/>
-  <img src="https://github.com/kamal66/flutter_live_location_tracking/main/screenshots/ss2.png?raw=true" width="250" height="auto" alt="Screenshot 2"/>
+  <img src="https://github.com/kamal66/flutter_live_location_tracking/blob/main/screenshots/ss1.png?raw=true" width="250" height="auto" alt="Screenshot 5"/>
+  <img src="https://github.com/kamal66/flutter_live_location_tracking/blob/main/screenshots/ss2.png?raw=true" width="250" height="auto" alt="Screenshot 6"/>
 </div>
 
 ---
